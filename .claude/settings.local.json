@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm view *)",
+      "WebSearch",
+      "Bash(npx tsc *)",
+      "WebFetch(domain:fastly.jsdelivr.net)",
+      "Bash(curl -sI --connect-timeout 10 \"https://fastly.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Hand%20gestures/Waving%20Hand.png\")",
+      "Bash(curl -sLI --connect-timeout 10 -w \"HTTP %{http_code}\" \"https://fastly.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Hand%20gestures/Waving%20Hand.png\")",
+      "Bash(curl *)",
+      "Bash(npm list *)",
+      "Bash(node -e \"const c = require\\('./config/personal.json'\\); console.log\\('enabled:', c.live2d.enabled\\); console.log\\('modelPath:', c.live2d.modelPath\\);\")",
+      "Bash(npm run *)",
+      "Bash(node -e \"const si = require\\('react-icons/si'\\); ['SiX','SiSteam','SiWechat','SiTencentqq','SiBilibili','SiTiktok'].forEach\\(n => console.log\\(n, n in si\\)\\)\")",
+      "Bash(node -e ' *)",
+      "Bash(node -e \"const h = require\\('@heroui/react'\\); console.log\\('Popover:', 'Popover' in h\\); console.log\\('PopoverTrigger:', 'PopoverTrigger' in h\\); console.log\\('PopoverContent:', 'PopoverContent' in h\\);\")",
+      "Bash(node -e \"const si = require\\('react-icons/si'\\); console.log\\('SiLuogu:', 'SiLuogu' in si\\);\")"
+    ]
+  }
+}

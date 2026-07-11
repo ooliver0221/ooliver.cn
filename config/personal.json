@@ -1,0 +1,136 @@
+{
+  "site": {
+    "name": "ooliver - 主页",
+    "description": "ooliver 的个人主页 - 一个中学生、OIer 的自我介绍 & 作品集。",
+    "url": "https://ooliver.cn",
+    "keywords": [
+      "ooliver",
+      "张屹赫",
+      "ooliver的主页",
+      "张屹赫的主页",
+      "oliver",
+      "OI",
+      "OIer",
+      "中学生",
+      "作品集",
+      "Portfolio",
+      "Blog",
+      "博客",
+      "信息"
+    ],
+    "author": "ooliver"
+  },
+  "person": {
+    "name": "ooliver",
+    "alternateName": "Oliver Zhang",
+    "jobTitle": "中学生",
+    "organization": "南昌五中",
+    "alumniOf": [
+      "南昌五中实验学校",
+      "南昌五中"
+    ],
+    "bio": "你好！我是 <span class=\"font-oleo text-2xl\">ooliver</span>，南昌五中在读 OIer，日常在文化课和 OI 之间反复横跳。不学习时一般打球、踢球或听歌，梦想拥有哈登的球商、贝林厄姆的技术和陶喆的歌喉。"
+  },
+  "links": {
+    "github": "https://github.com/ooliver0221",
+    "email": "mailto:ooliver0221@163.com",
+
+    "steam": "https://steamcommunity.com/profiles/76561199520356352/",
+    "wechat": "https://weixin.qq.com/",
+    "qq": "https://im.qq.com/",
+    "bilibili": "https://space.bilibili.com/1209819361",
+    "tiktok": "https://www.douyin.com/user/MS4wLjABAAAApsHWb8V4LAOlxwqdNgdbROj5DXsprTePQPul_XKDNzaBGfwhbEiKPOPCNTjpW_4h",
+    "luogu": "https://www.luogu.com.cn/user/1159015"
+  },
+  "tabs": {
+    "all": "All",
+    "about": "About",
+    "projects": "Projects"
+  },
+  "projects": {
+    "webAgent": {
+      "name": "Blog",
+      "url": "https://blog.ooliver.cn/",
+      "description": "The Show Must Go On!"
+    },
+    "chatbot": {
+      "name": "Cloud",
+      "url": "https://cloud.ooliver.cn/",
+      "description": "个人云存储"
+    },
+    "actions": {
+      "name": "Status",
+      "url": "https://status.ooliver.cn/",
+      "description": "个人网站状态监管"
+    },
+    "paper": {
+      "name": "Projects",
+      "url": "https://github.com/ooliver0221/",
+      "description": "我的 GitHub 项目集"
+    },
+    "1": {
+      "name": "1",
+      "url": "https://ooliver.cn",
+      "description": "1"
+    }
+  },
+  "icons": [
+    "cplusplus",
+    "python",
+    "html5",
+    "css",
+    "blogger",
+    "docker",
+    "git",
+    "gitee",
+    "github",
+    "wordpress",
+    "claude",
+    "apple",
+    "linux",
+    "steam",
+    "csdn",
+    "alibabacloud",
+    "asus",
+    "googlechrome",
+    "googlegemini"
+  ],
+  "fonts": {
+    "primary": "ubuntu",
+    "decorative": "oleoScript"
+  },
+  "live2d": {
+    "modelPath": "mashiro/seifuku.model.json",
+    "enabled": true
+  },
+  "images": {
+    "avatar": "/images/avatar.jpg",
+    "dog": "/images/dog.jpg",
+    "action": "/images/status.png",
+    "webagent": "/images/blog.jpg",
+    "chatbot": "/images/cloud.png",
+    "paper": "/images/github.jpeg",
+    "photos": [
+      "/images/1.jpg",
+      "/images/2.jpg",
+      "/images/3.jpg",
+      "/images/4.jpg",
+      "/images/5.jpg",
+      "/images/6.jpg"
+    ]
+  },
+  "api": {
+    "deepseekApiKey": "",
+    "deepseekModel": "deepseek-v4-flash"
+  },
+  "map": {
+    "center": [28.674142, 115.849353],
+    "zoom": 10
+  },
+  "emojiBaseUrl": "https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis",
+  "openGraph": {
+    "title": "ooliver - 主页",
+    "description": "ooliver 的个人主页",
+    "alt": "ooliver - 主页"
+  }
+}
